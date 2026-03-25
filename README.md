@@ -1,4 +1,4 @@
-**Project Overview:**
+**Project Overview: **
 
 This repository contains a collection of SQL scripts designed to simulate and solve real-world retail business scenarios.
 
