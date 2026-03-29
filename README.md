@@ -7,6 +7,24 @@ This repository contains a collection of SQL scripts designed to simulate and so
 
 ---
 
+## 🚀 Features
+- **Complex Data Retrieval:** Advanced multi-table **Joins** and nested **Subqueries**.
+- **Statistical Summaries:** Utilization of **Aggregate Functions** (SUM, AVG, COUNT) and **Grouping**.
+- **Analytical Reporting:** Performance-optimized queries for real-world business scenarios.
+- **Data Insight:** Transforming raw data into meaningful business intelligence via **SQL**.
+
+---
+
+
+## 🛠️ Technologies
+- **SQL** (DQL & DDL)
+- **Advanced Joins** (Inner, Outer, Self-Joins)
+- **Analytical Functions**
+- **Query Optimization**
+
+---
+
+
 ### 🛠️ Technical Skillset
 This project demonstrates proficiency in:
 * **Data Retrieval:** Filtering multi-country data and string concatenation for clean reporting.
